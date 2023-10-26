@@ -1,5 +1,5 @@
-# DPJ Workspace
-## Checkout our amazing webpages!
+# Welcome to DPJ Workspaces Github page
+## Feel free to checkout our amazing webpages!
 
 [DPJ Workspace - Sweden](https://www.dpj.se)  
 [DPJ Workspace - Germany](https://www.dpj-workspace.com/de/)  
